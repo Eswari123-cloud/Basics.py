@@ -1,0 +1,5 @@
+print("Below is the trianlge:")
+print("   /\ ")
+print("  /  \ ")
+print(" /    \ ")
+print("/______\ ")
